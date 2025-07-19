@@ -1,0 +1,11 @@
+City,Country,Population_Millions,Slum_Percentage,Access_Public_Transport,Waste_Collected_Percentage,PM25_Level,Green_Cover_Percentage,Disaster_Risk_Index,Affordable_Housing_Index,Road_Connectivity_Index,High_Risk_Area
+Mumbai,India,20.0,45,72,60,78,10,7.5,35,60,Yes
+Copenhagen,Denmark,0.8,1,98,95,12,45,2.0,85,90,No
+Nairobi,Kenya,4.5,55,65,45,55,12,6.8,30,50,Yes
+Tokyo,Japan,37.0,2,99,96,18,28,3.0,75,85,No
+São Paulo,Brazil,12.2,30,87,70,52,20,5.0,55,70,No
+Lagos,Nigeria,21.0,62,40,35,82,8,8.2,25,40,Yes
+Paris,France,11.0,2,97,90,20,30,2.2,80,92,No
+Jakarta,Indonesia,10.6,40,75,55,70,12,7.1,40,65,Yes
+New York,USA,19.0,3,95,85,25,35,4.5,70,88,No
+Dhaka,Bangladesh,21.7,58,50,40,85,7,7.8,30,45,Yes
